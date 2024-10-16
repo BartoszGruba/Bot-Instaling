@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="popup.js" defer></script>
+    <title>Popup</title>
+  </head>
+
+  <body>
+    <div class="interface">
+      <div class="startDiv">
+        <button class="startBot btn opt">Start Bota</button>
+        <button class="stopBot btn opt">Stop Bota</button>
+        <div class="startDivElement">
+          <input type="number" id="numbOfError" value="0" />Błędy
+        </div>
+        <div class="startDivElement">
+          <input type="number" id="timeBetween" value="4" />Czas między
+          powtórzeniami w sek.
+        </div>
+      </div>
+      <button class="addTranslations btn">Dodaj słowa</button>
+      <button class="deleteTranslations btn">Usuń słowa</button>
+      <button class="showTranslations btn">Pokaż słowa</button>
+      <!-- <button class="GetTranslationsFromBot btn">Pobierz słówka z bota ( jeszcze nie działa )</button> -->
+    </div>
+    <div class="logs"></div>
+    <p class="paragraph">Twoje słowa</p>
+    <div class="container words"></div>
+    <footer>Pani Monika może teraz gówno zrobić👌👌👌</footer>
+  </body>
+</html>
