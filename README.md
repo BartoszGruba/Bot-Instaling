@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c138eb7d-a4a1-456e-a1e9-ec5d4141d445)
+
 Ten bot pozwoli na cieszenie sie życiem, zamiast robić samodzielnie (ręcznie) sesji Instaling.
 
 1.Przejdż do <> CODE (Ten przycisk zielony) i Download ZIP (Na samym dole)
@@ -15,3 +17,4 @@ Ten bot pozwoli na cieszenie sie życiem, zamiast robić samodzielnie (ręcznie)
 7.Pod koniec sesji skopiuj tekst z dołu i dodaj do bota za pomocą "Dodaj Słówka"
 
 Pozdrawiam Barrosz Gruba
+
