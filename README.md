@@ -13,3 +13,5 @@ Ten bot pozwoli na cieszenie sie życiem, zamiast robić samodzielnie (ręcznie)
 6.Za pierwszym razem włączania bota wybierz "OK" i Startuj Bota (Musi zapisać sobie słówka)
 
 7.Pod koniec sesji skopiuj tekst z dołu i dodaj do bota za pomocą "Dodaj Słówka"
+
+Pozdrawiam Barrosz Gruba
