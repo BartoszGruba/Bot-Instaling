@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c138eb7d-a4a1-456e-a1e9-ec5d4141d445)
+![image](https://github.com/user-attachments/assets/ed0f4ce9-4aa3-45d1-bcd3-993a29e4cdf4)
 
 Ten bot pozwoli na cieszenie sie życiem, zamiast robić samodzielnie (ręcznie) sesji Instaling.
 
